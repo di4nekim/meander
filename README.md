@@ -1,4 +1,4 @@
-# Meander - Social Location App
+# Meander (Hoya Developers)
 
 ![Demo Ready](https://img.shields.io/badge/Demo-Ready%20to%20Run-brightgreen?style=for-the-badge)
 ![No Setup Required](https://img.shields.io/badge/Setup-Not%20Required-blue?style=for-the-badge)
