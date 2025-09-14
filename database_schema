@@ -1,0 +1,8 @@
+Basic unit will be a "chat"
+  Each "chat" will be assigned a "TYPE" --> this is either "person" or "group"
+  Each "chat" will have a list of "people" (only one in "person")
+  Each "chat" will also have a list of messages --> most recent message can be at front of list
+  --> If we cannot have a linked-list for some reason, then we have a variable for most recent message
+Each message will have text, sender, and timestamp
+  
+  
