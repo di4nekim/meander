@@ -22,7 +22,7 @@ A React Native mobile application for sharing and discovering study abroad exper
 
 3. **Fully functional** - All features work with local mock data!
 
-## 📸 Demo Preview
+## Demo Preview
 
 <!-- Add screenshots/GIFs here when you have them -->
 
